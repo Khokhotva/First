@@ -1,0 +1,6 @@
+c:\users\alexey\documents\visual studio 2013\Projects\newrefr\newrefr\bin\Debug\newrefr.exe.config
+C:\Users\Alexey\Documents\Visual Studio 2013\Projects\newrefr\newrefr\obj\Debug\newrefr.csprojResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2013\Projects\newrefr\newrefr\bin\Debug\newrefr.exe
+C:\Users\Alexey\Documents\Visual Studio 2013\Projects\newrefr\newrefr\bin\Debug\newrefr.pdb
+C:\Users\Alexey\Documents\Visual Studio 2013\Projects\newrefr\newrefr\obj\Debug\newrefr.exe
+C:\Users\Alexey\Documents\Visual Studio 2013\Projects\newrefr\newrefr\obj\Debug\newrefr.pdb
